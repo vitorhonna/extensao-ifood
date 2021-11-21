@@ -1,0 +1,22 @@
+body {
+    background-color: #121214;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    height: 50%;
+    width: auto;
+    outline: none;
+    margin: 10px;
+    border: none;
+    border-radius: 2px;
+    padding: 10px;
+    background-color: #EA1D2C;
+    color: white;
+}
+
+button.current {
+    box-shadow: 0 0 0 2px white, 0 0 0 4px black;
+}
