@@ -1,5 +1,5 @@
 body {
-    background-color: #121214;
+    background-color: #ffffff;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -13,7 +13,7 @@ button {
     border: none;
     border-radius: 2px;
     padding: 10px;
-    background-color: #EA1D2C;
+    background-color: #ea1d2c;
     color: white;
 }
 
